@@ -1,0 +1,5 @@
+curvemove()
+turtle.left(120)
+curvemove()
+turtle.forward(111.65)
+turtle.end_fill()
