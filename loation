@@ -1,0 +1,3 @@
+            t.pensize(random.uniform((branchLen + 5) / 4 - 2, (branchLen + 6) / 4 + 5))
+            t.down()
+            t.forward(branchLen)
