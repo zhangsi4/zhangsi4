@@ -1,0 +1,10 @@
+public class FileWriterTest {
+
+    public static void main(String[] args) {
+        FileWriter writer = null;
+        try {
+writer.flush();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (writer != null) {
