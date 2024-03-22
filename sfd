@@ -1,0 +1,5 @@
+def calc(exp):
+    try:
+        return f"{exp}={eval(exp)}"
+    except:
+        return f"{exp}:
