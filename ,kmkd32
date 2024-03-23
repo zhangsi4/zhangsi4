@@ -1,0 +1,4 @@
+	sentence = 'tom\'s pet is a cat'  
+	sentence2 = "tom's pet is a cat"  
+	sentence3 = "tom said:\"hello world!\""
+	sentence4 = 'tom said:"hello world"'
