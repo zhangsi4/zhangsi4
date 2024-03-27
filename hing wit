@@ -1,0 +1,6 @@
+for (teamIndex = 0; teamIndex < teamCount; teamIndex++){
+    for (enventIndex = 0; enventIndex < enventCount; enventIndex++){
+        // do something with score[teamIndex][enventIndex]    
+    }
+}
+
