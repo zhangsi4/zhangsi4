@@ -1,0 +1,4 @@
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.wt.monitor</groupId>
+    <artifactId>skywalking-alarm</artifactId>
