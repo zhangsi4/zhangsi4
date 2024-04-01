@@ -1,0 +1,7 @@
+ {
+
+ }
+
+ public static UserServiceimpl getUserserviceimpl() {
+  return userserviceimpl;
+ }
