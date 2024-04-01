@@ -1,0 +1,4 @@
+ private ArrayList<User> user = new ArrayList<User>();
+
+ private static UserServiceimpl userserviceimpl = new UserServiceimpl(); //
+ private UserServiceimpl(
