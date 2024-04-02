@@ -1,0 +1,6 @@
+    public boolean add(E e) {
+    final ReentrantLock lock = this.lock;
+    lock.lock();
+    try {
+    }
+    }
