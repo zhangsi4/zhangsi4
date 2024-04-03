@@ -1,0 +1,4 @@
+  lock.lock();
+    try {
+        Object[] elements = getArray();
+        int len = elements.length;
