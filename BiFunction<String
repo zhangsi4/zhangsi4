@@ -1,0 +1,3 @@
+    BiFunction<String, Integer, User> biFunction = User::new;
+    User user = biFunction.apply("mengday", 28);
+    System.out.println(user.toString());
