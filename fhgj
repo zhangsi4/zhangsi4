@@ -1,0 +1,4 @@
+    String content = "Hello JDK8";
+    Function<Integer, String> func = content::substring;
+    String result = func.apply(1);
+    System.out.println(result);
